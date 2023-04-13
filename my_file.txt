@@ -1,0 +1,6 @@
+Mi nombre es Camila
+Mi apelido es Cosetino
+Mi edad es 23 años
+Mi lenguaje favorito es Python
+Aunque también me gusta JS
+ Y SQL
